@@ -1,0 +1,23 @@
+{
+  "name": "resturant",
+  "description": "A touch based app for resturant",
+  "main": "index.html",
+  "keywords": [
+    "waveshare",
+    "pi-tft",
+    "raspberry-pi",
+    "touch"
+  ],
+  "authors": [
+    "Suraj Vanjeeswaran"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
