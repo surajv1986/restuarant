@@ -1,0 +1,218 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"m",
+				"margin"
+			],
+			[
+				"te",
+				"text-decoration-color"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"a",
+				"align-items"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 432.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/G/Acadgild_Projects/AcadGild-Project-2-master/index.html",
+		"/G/Acadgild_Projects/AcadGild-Project-2-master/Application/App.js",
+		"/G/Acadgild_Projects/AcadGild-Project-2-master/Partials/Home.html",
+		"/G/Acadgild_Projects/AcadGild-Project-2-master/Application/TypeAheadCtrl.js",
+		"/G/Acadgild_Projects/AcadGild-Project-2-master/Application/TypesuggestCtrl.js",
+		"/G/Acadgild_Projects/AcadGild-Project-2-master/Partials/Dashboard.html",
+		"/C/inetpub/wwwroot/Partials/Home.html",
+		"/C/inetpub/wwwroot/Partials/Dashboard.html",
+		"/C/inetpub/wwwroot/CSS/Home.css",
+		"/C/inetpub/wwwroot/Application/TypeAheadCtrl.js",
+		"/C/inetpub/wwwroot/Application/App.js",
+		"/G/Acadgild_Projects/AcadGild-Project-2-master/AcadGild-Project-2-master/Partials/Home.html",
+		"/C/inetpub/wwwroot/Application/SearchCtrl.js",
+		"/G/Acadgild_Projects/AcadGild-Project-2-master/AcadGild-Project-2-master/Partials/Dashboard.html",
+		"/G/Acadgild_Projects/AcadGild-Project-2-master/AcadGild-Project-2-master/index.html",
+		"/G/Acadgild_Projects/AcadGild-Project-2-master/AcadGild-Project-2-master/Application/TypeAheadCtrl.js",
+		"/G/Acadgild_Projects/AcadGild-Project-2-master/AcadGild-Project-2-master/Application/SearchCtrl.js",
+		"/E/VBScript_Programs/myTestScript.vbs",
+		"/C/Automation_Server/automate_server_pg.html",
+		"/C/Automation_Server/automate.css",
+		"/F/Backups/Drive 1/Angular JS/Javascript/SriPrasannaVenkatachalapathyAnimate.js",
+		"/F/Backups/Drive 1/Acadgild/AngularJs/AngularJs/dependency_injection/angular.js",
+		"/F/Backups/Drive 1/Acadgild 2nd Project/public/Application/SearchCtrl.js",
+		"/F/Backups/Drive 1/Acadgild/AngularJs/AngularJs/ourTrial/angular.js",
+		"/F/Backups/Drive 1/Acadgild/AngularJs/AngularJs/basic_controller.html",
+		"/C/Users/Narayan.Iyer/Downloads/Package Control (1).sublime-package",
+		"/C/Users/Narayan.Iyer/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/F/Backups/Drive 1/Acadgild 2nd Project/public/Application/App.js",
+		"/F/Backups/Drive 1/Acadgild 2nd Project/public/Application/DashboardCtrl.js",
+		"/F/Backups/Drive 1/Acadgild 2nd Project/public/Application/DateTimeCtrl.js"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "application.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
